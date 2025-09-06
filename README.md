@@ -1,7 +1,5 @@
-# App · Mobile · Web Portfolio — YOUR NAME
-**Tagline:** ONE LINE about your focus (e.g., “Shipping fast, clean apps with solid UX and testable code.”)
-
-[LinkedIn](YOUR_LINK) · [Email](mailto:YOUR_EMAIL) · [Resume](YOUR_LINK) · [Main GitHub](https://github.com/YOUR_USERNAME)
+# App · Mobile · Web Portfolio — WILSON
+Shipping fast, clean apps with solid UX and reliable code.
 
 ---
 
@@ -84,18 +82,3 @@
 
 ---
 
-## 🧱 How I build
-- Clean architecture, modular components, typed APIs
-- Reliable pipelines (CI, tests, preview deploys)
-- Performance basics (bundle size, lazy routes, image policy)
-- Clear READMEs with **setup → run → build** steps
-
-- **PROJECT TITLE** — one-line value proposition.  
-  *Stack:* A, B, C · **[Live/App](LINK)** · **[Repo](LINK)** · **[Screens/GIF](LINK)**  
-  *Notes:* short metric/result (e.g., “LCP 1.8s on 4G”, “~10k MAU”).
-  
-- **PACKAGE/COMPONENT NAME** — what it enables.  
-  *Stack:* TypeScript, Jest/RTL, Storybook · **[Repo](LINK)** · **[Docs](LINK)** · **[NPM](LINK)**
-  
-- **SERVICE NAME** — scope and consumers (which apps use it).  
-  *Stack:* FastAPI/Node, DB, Docker · **[Repo](LINK)** · **[OpenAPI/Swagger](LINK)** · **[Postman Collection](LINK)**
