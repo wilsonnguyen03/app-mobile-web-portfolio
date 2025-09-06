@@ -21,8 +21,12 @@ Shipping fast, clean apps with solid UX and reliable code.
   Prototype attendance tracker encouraging peer accountability in student learning.  
   *Stack:* React Native · Node.js · MongoDB · AWS  
   👉 [View Repository](https://github.com/wilsonnguyen03/ShowUp)  
-  *Outcome:* Demonstrates full-stack app delivery (frontend, backend, cloud) with Agile workflow.  
-
+  *Outcome:* Demonstrates full-stack app delivery (frontend, backend, cloud) with Agile workflow.
+  
+- **AutoGrader – AI-Powered Grading App**  
+  Desktop app combining OCR (Tesseract, EasyOCR, PaddleOCR) with AI similarity checks to grade student worksheets automatically.  
+  *Stack:* Python · Tkinter/CustomTkinter · OpenCV · OCR Engines · Groq API  
+  👉 [View Repository](https://github.com/wilsonnguyen03/autograder)
 ---
 
 ## 🔎 About This Hub
